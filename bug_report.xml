@@ -1,1 +1,16 @@
-
+<?xml version="1.0"?>
+	<bug_report>
+		<title>User is unable to login in app</title>
+    <type>Functinal</type>
+    <frequency>Every Time</frequency>
+    <priority>High</priority>
+    <environment>iPhone 12 mini / iOS 15.2.1</environment>
+    <actionPerformed>
+      <step_1>Open app</step_1>
+      <step_2>Click on Login button</step_2>
+      <step_3>Type your email and password in fields</step_3>
+      <step_4>Click on Sign in button</step_4>
+    </actionPerformed>
+    <expected_result>User should be able to login in app</expected_result>
+    <actual_result>User is unable to login in app</actual_result>
+	</bug_report>
